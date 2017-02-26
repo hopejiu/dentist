@@ -349,9 +349,9 @@ p.date {
 }
 .times-section {
     text-align: center;
-    background: url("/images/banner2.jpg") no-repeat;
+    background: url("/images/banner2.jpg");
 	background-size: cover;
-	min-height: 517px;
+	min-height: 350px;
     padding: 6em 0 0 0;
   
 }
